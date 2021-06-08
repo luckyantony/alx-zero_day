@@ -1,1 +1,1 @@
-*This is mandatory*
+*This is a mandatory file*
